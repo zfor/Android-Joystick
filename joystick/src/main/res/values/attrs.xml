@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Joystick">
+        <attr name="draw_mode" format="enum">
+            <enum name="NORMAL" value="1"/>
+            <enum name="NO_BASE" value="2"/>
+            <enum name="INNER_CIRCLE_ONLY" value="3"/>
+        </attr>
+    </declare-styleable>
+</resources>
